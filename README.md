@@ -2,6 +2,7 @@
 ## UBC project - zhaoqj31 azxyxza syy01
 
 ### Website reference 
+(webpages are linked with azxyxza's account)
 * Vancouver Restaurant System Login Page:
 https://www.students.cs.ubc.ca/~azxyxza/login.php
 * Account Management: 
